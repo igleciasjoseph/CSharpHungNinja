@@ -1,0 +1,11 @@
+/Users/kratos/Desktop/C#/HungryNinja/bin/Debug/netcoreapp2.2/HungryNinja.deps.json
+/Users/kratos/Desktop/C#/HungryNinja/bin/Debug/netcoreapp2.2/HungryNinja.runtimeconfig.json
+/Users/kratos/Desktop/C#/HungryNinja/bin/Debug/netcoreapp2.2/HungryNinja.runtimeconfig.dev.json
+/Users/kratos/Desktop/C#/HungryNinja/bin/Debug/netcoreapp2.2/HungryNinja.dll
+/Users/kratos/Desktop/C#/HungryNinja/bin/Debug/netcoreapp2.2/HungryNinja.pdb
+/Users/kratos/Desktop/C#/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.csprojAssemblyReference.cache
+/Users/kratos/Desktop/C#/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.csproj.CoreCompileInputs.cache
+/Users/kratos/Desktop/C#/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.AssemblyInfoInputs.cache
+/Users/kratos/Desktop/C#/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.AssemblyInfo.cs
+/Users/kratos/Desktop/C#/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.dll
+/Users/kratos/Desktop/C#/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.pdb
